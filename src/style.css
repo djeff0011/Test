@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+}
+
+.navbar {
+  height: 100px;
+  background-color: yellowgreen;
+  color: whitesmoke;
+  margin-bottom: 15px;
+  text-align: center;
+  font-size: 38px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+
+  .footbar {
+    height: 200px;
+    background-color: rgb(205, 50, 166);
+    color: whitesmoke;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 38px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+    .mainbody {
+      height: 800px;
+      background-color: rgb(178, 208, 228);
+      color: whitesmoke;
+      margin-bottom: 15px;
+      text-align: center;
+      font-size: 38px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      }
